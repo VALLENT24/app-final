@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466936057152",
+    "project_id": "vallentapp-final",
+    "storage_bucket": "vallentapp-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466936057152:android:d83af87ad0a562e817bea5",
+        "android_client_info": {
+          "package_name": "com.vallent.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-n3yrlZ81BQ2jMRazu89p704AOB_8mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
